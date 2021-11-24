@@ -1,3 +1,8 @@
 Joren: Letter E
 Cédric: Letter C
+<<<<<<< HEAD
+=======
+Damien: Letter N
+Dieter: letter D
+>>>>>>> 8438c5fb01a0d93decbbe12a2dc8c7dc258a5e9d
 Jakub: Letter A
